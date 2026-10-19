@@ -1,6 +1,4 @@
-using UnityEditor.Profiling;
 using UnityEngine;
-using UnityEngine.Rendering.Universal;
 
 public class Stage1_GrabImage : MonoBehaviour
 {
